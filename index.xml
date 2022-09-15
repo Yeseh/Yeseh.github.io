@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jesse&#39;s Blog</title>
-    <link>http://jessewellenberg.nl/</link>
-    <description>Recent content on Jesse&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 15 Sep 2022 18:42:34 +0200</lastBuildDate><atom:link href="http://jessewellenberg.nl/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome</title>
-      <link>http://jessewellenberg.nl/posts/welcome/</link>
-      <pubDate>Thu, 15 Sep 2022 18:42:34 +0200</pubDate>
-      
-      <guid>http://jessewellenberg.nl/posts/welcome/</guid>
-      <description>Welcome! This is just a test page to see if everything is working as it should :)
-fn test() { let test = &amp;#34;hihi&amp;#34; } </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jesse's Blog</title><link>https://blog.jessewellenberg.nl/</link><description>Recent content on Jesse's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 15 Sep 2022 18:42:34 +0200</lastBuildDate><atom:link href="https://blog.jessewellenberg.nl/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome</title><link>https://blog.jessewellenberg.nl/posts/welcome/</link><pubDate>Thu, 15 Sep 2022 18:42:34 +0200</pubDate><guid>https://blog.jessewellenberg.nl/posts/welcome/</guid><description>Welcome! This is just a test page to see if everything is working as it should :)
+fn test() { let test = &amp;#34;hihi&amp;#34; }</description></item></channel></rss>
